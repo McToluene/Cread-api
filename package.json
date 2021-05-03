@@ -1,0 +1,8 @@
+{
+	"name": "cread-api",
+	"version": "1.0.0",
+	"description": "Api for book reviews and discussion platform",
+	"main": "server.js",
+	"author": "McToluene",
+	"license": "MIT"
+}
